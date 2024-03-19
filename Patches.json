@@ -7,40 +7,64 @@
       "save_as": "11.png"
     },
     {
-      "files": [ "11.png" ],
+      "files": [ "A1.png" ],
       "folder": "game/",
       "version": 0.1,
-      "save_as": "11.png"
+      "save_as": "A1.png"
     },
     {
-      "files": [ "11.png" ],
+      "files": [ "A2.png" ],
       "folder": "game/",
       "version": 0.1,
-      "save_as": "11.png"
+      "save_as": "A2.png"
     },
     {
-      "files": [ "11.png" ],
+      "files": [ "A3.png" ],
       "folder": "game/",
       "version": 0.1,
-      "save_as": "11.png"
+      "save_as": "A3.png"
     },
     {
-      "files": [ "11.png" ],
+      "files": [ "A4.png" ],
       "folder": "game/",
       "version": 0.1,
-      "save_as": "11.png"
+      "save_as": "A4.png"
     },
     {
-      "files": [ "11.png" ],
+      "files": [ "A5.png" ],
       "folder": "game/",
       "version": 0.1,
-      "save_as": "11.png"
+      "save_as": "A5.png"
     },
     {
-      "files": [ "11.png" ],
+      "files": [ "A6.png" ],
       "folder": "game/",
       "version": 0.1,
-      "save_as": "11.png"
+      "save_as": "A6.png"
+    },
+    {
+      "files": [ "A7.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "A7.png"
+    },
+    {
+      "files": [ "A8.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "A8.png"
+    },
+    {
+      "files": [ "A9.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "A9.png"
+    },
+    {
+      "files": [ "A10.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "A10.png"
     },
   ]
 }
