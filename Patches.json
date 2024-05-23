@@ -72,5 +72,11 @@
       "version": 0.1,
       "save_as": "A1.zip"
     },
+    {
+      "files": [ "18MBZIP.zip" ],
+      "folder": "game/ZIP_test/",
+      "version": 0.1,
+      "save_as": "18MBZIP.zip"
+    },
   ]
 }
